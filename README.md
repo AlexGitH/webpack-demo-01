@@ -4,4 +4,6 @@
 
 ```bash
 npx webpack
+# or
+npx webpack --config webpack.config.js
 ```
