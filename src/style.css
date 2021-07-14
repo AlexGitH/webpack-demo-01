@@ -2,5 +2,5 @@
   color: red;
 
   /* CAN BE ALSO USED IN THE CSS FILE E.G.:*/
-  /* background: url('./icon.svg'); */
+  background: url('./icon.svg') left top / 100px 100px no-repeat content-box;
 }
