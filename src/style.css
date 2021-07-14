@@ -1,6 +1,15 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('./Roboto-Regular.woff2') format('woff2'),
+    url('./Roboto-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 .hello {
   color: red;
-
+  font-family: 'Roboto';
   /* CAN BE ALSO USED IN THE CSS FILE E.G.:*/
   background: url('./icon.svg') left top / 100px 100px no-repeat content-box;
 }
