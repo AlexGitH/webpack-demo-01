@@ -4,6 +4,7 @@
 
 ```bash
 npm run build
+npm run watch  # for auto rebuilding
 
 # or with --no-color option
 npm run build -- no-color
