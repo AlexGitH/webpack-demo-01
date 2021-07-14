@@ -1,3 +1,6 @@
 .hello {
   color: red;
+
+  /* CAN BE ALSO USED IN THE CSS FILE E.G.:*/
+  /* background: url('./icon.svg'); */
 }
