@@ -16,3 +16,13 @@ npx webpack
 # or
 npx webpack --config webpack.config.js
 ```
+
+## NOTES
+
+### ASSET MANAGEMENT
+
+```bash
+npm install css-loader csv-loader json5 style-loader toml xml-loader yamljs
+# to cleanup
+npm uninstall css-loader csv-loader json5 style-loader toml xml-loader yamljs
+```
